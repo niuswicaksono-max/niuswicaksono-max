@@ -18,24 +18,22 @@
 
 <br>
 
-## Tentang Aku
+<table align="center" width="100%">
+<tr>
+<td align="center">
 
-- 🐰 **Bunny** — fans-nya NewJeans, denger Get Up dan Ditto tiap hari
-- ⚔️ **Sekiro player** — udah tumbang berkali-kali tapi tetep balik lagi
-- 💙 **Istri sah: Minji** — sudah sah, tidak menerima gugatan
+### Tentang Aku
+
+🐰 **Bunny** — fans-nya NewJeans, denger Get Up dan Ditto tiap hari
+
+⚔️ **Sekiro player** — udah tumbang berkali-kali tapi tetep balik lagi
+
+💙 **Istri sah: Minji** — sudah sah, tidak menerima gugatan
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=niuswicaksono-max&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10&title.color=8C9EFF&text.color=E4E4E7&icon.color=6C63FF)
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-<sub>Makasih udah mampir</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8C7CFF,100:5B8DEF&height=150&section=footer&text=Makasih%20udah%20mampir&fontSize=22&fontColor=E4E4E7&animation=fadeIn" width="100%"/>
