@@ -1,33 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9D7BFF&height=180&section=header&text=Halo,%20Saya%20Yuss&fontSize=42&fontColor=F5F5F7&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Learner&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9D7BFF&height=180&section=header&text=Hai,%20Aku%20Yuss%20👋&fontSize=40&fontColor=F5F5F7&animation=fadeIn&fontAlignY=38&desc=Iseng-iseng%20ngoding%20%7C%20belajar%20sambil%20jalan&descSize=17&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=B9A6FF&center=true&vCenter=true&width=500&lines=Membangun+solusi+lewat+kode;PHP+%7C+Python+%7C+Computer+Vision;Terus+belajar%2C+terus+eksplorasi" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=B9A6FF&center=true&vCenter=true&width=500&lines=Nyoba-nyoba+bikin+project+random;Kadang+jadi%2C+kadang+cuma+eksperimen;Yang+penting+belajar+terus+%F0%9F%9A%80" />
 
 </div>
 
 <br>
 
-## Tentang Saya
+## Tentang Repo Ini
 
-Saya suka membangun hal-hal yang bisa langsung dipakai buat menyelesaikan masalah sehari-hari — mulai dari sistem pemesanan berbasis QR code sampai eksplorasi *computer vision* untuk interaksi manusia-komputer yang lebih natural.
+GitHub ini isinya project-project iseng aku buat belajar coding. Nggak semua rapi, nggak semua selesai — tapi semua dibikin karena penasaran atau lagi pengen coba sesuatu yang baru.
 
-Saat ini fokus memperdalam:
+Beberapa yang lagi/pernah dikerjain:
 
-- 🔧 Pengembangan web dengan **PHP**
-- 🖐️ **Computer vision** & real-time gesture recognition dengan **Python**
-- 📚 Terus belajar praktik terbaik dalam software development
+- 🔧 Otak-atik web pakai **PHP**
+- 🖐️ Coba-coba **computer vision** & gesture recognition pakai **Python**
+- 📚 Pokoknya belajar apa aja yang bikin penasaran
 
 <br>
 
-## Proyek yang Sedang Dikerjakan
+## Project Iseng yang Lagi Dipamerin
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🍽️ Restoran Nusantara
-Sistem pemesanan menu berbasis scan QR code di meja. Pelanggan tinggal scan barcode di meja, lalu langsung memesan tanpa perlu menunggu pelayan.
+Coba-coba bikin sistem pesan makan pake scan QR code di meja. Idenya biar customer tinggal scan barcode terus langsung order sendiri, nggak perlu manggil pelayan.
 
 `PHP`
 
@@ -35,7 +35,7 @@ Sistem pemesanan menu berbasis scan QR code di meja. Pelanggan tinggal scan barc
 <td width="50%" valign="top">
 
 ### ✋ Kode Tangan — MINJI Love Nius
-Real-time hand gesture recognition memakai MediaPipe Tasks API. Sentuh jempol ke jari tertentu, sistem langsung merespons lewat webcam secara live.
+Eksperimen deteksi gerakan tangan pake MediaPipe. Sentuh jempol ke jari tertentu, terus lewat webcam langsung muncul kata "I", "LOVE", atau "MINJI". Random tapi seru dibikinnya 😄
 
 `Python` `MediaPipe`
 
@@ -72,9 +72,13 @@ Real-time hand gesture recognition memakai MediaPipe Tasks API. Sentuh jempol ke
 
 <div align="center">
 
-### Mari Terhubung
+### Mampir Aja Kalau Mau Ngobrol
 
 <a href="https://github.com/niuswicaksono-max"><img src="https://img.shields.io/badge/GitHub-2D2A55?style=for-the-badge&logo=github&logoColor=B9A6FF" /></a>
+
+<br><br>
+
+<sub>✨ Terima kasih udah mampir ke profil aku! ✨</sub>
 
 <br><br>
 
