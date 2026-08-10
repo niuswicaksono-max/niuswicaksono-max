@@ -245,26 +245,3 @@ Secure login
 <br>
 
 ---
-
-<div align="center">
-
-# 🗺️ Bunnies App Roadmap
-
-</div>
-
-```text
-████████████████████████████████████████  75%
-
-✅ Login & Register
-✅ User Profile
-✅ Global Chat
-✅ Announcement
-✅ Forum / Topics
-✅ Like & Comment
-✅ Report System
-✅ Admin Panel
-
-🔄 Automatic News Integration
-🔄 Push Notifications
-🔄 UI / UX Improvements
-⬜ Bunnies App 2.0 Mobile
