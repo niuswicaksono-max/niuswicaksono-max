@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B8DEF,50:8C7CFF,100:6C63FF&height=180&section=header&text=Hai%20Nius%20%F0%9F%91%8B&fontSize=44&fontColor=E4E4E7&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=800&color=8C9EFF&center=true&vCenter=true&width=650&lines=Bunny+sejati+%F0%9F%90%B0%F0%9F%92%99;Nyoba+project+iseng%2C+kadang+jadi+kadang+enggak+%F0%9F%98%85;Istri+sah%3A+Kim+Minji%2C+gugatan+ditolak+%E2%9A%96%EF%B8%8F;Selamat+menikmati+isi+profil+ini+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=800&color=8C9EFF&center=true&vCenter=true&width=700&lines=Bunny+sejati+%F0%9F%90%B0%F0%9F%92%99;Nyoba+project+iseng%2C+kadang+jadi+kadang+enggak+%F0%9F%98%85;Creator+of+Bunnies+App+%F0%9F%90%B0%F0%9F%92%9C;Istri+sah%3A+Kim+Minji%2C+gugatan+ditolak+%E2%9A%96%EF%B8%8F;Selamat+menikmati+isi+profil+ini+%E2%9C%A8" />
 
 </div>
 
@@ -10,6 +10,7 @@
 
 <table align="center" width="100%">
 <tr>
+
 <td align="center" width="30%" valign="top">
 
 <br>
@@ -27,23 +28,43 @@
 <br><br>
 
 </td>
+
 <td align="center" width="70%" valign="top">
 
 <br>
 
-Hai aku Nius 👋 disini aku cuma upload beberapa project iseng ku yang bisa kalian coba-coba sendiri 😄
+### 👋 Hai, aku Nius!
 
-Jangan lupa mampir lihat beberapa draft project ku juga ya, soalnya aku emang suka banget bikin project-project unik sesuai apa yang aku suka 🚀
+Aku seorang mahasiswa Informatika yang suka **ngulik, belajar, dan bikin project-project unik** berdasarkan hal-hal yang aku suka.
+
+Di sini aku upload beberapa project iseng yang bisa kalian coba sendiri 😄  
+Kadang project-nya jadi, kadang juga cuma sampai jadi draft 😂
+
+Salah satu project yang sedang aku bangun adalah:
+
+### 🐰 Bunnies App
+
+**Bunnies App** adalah platform komunitas gratis yang aku buat khusus untuk para **Bunnies**, sebagai tempat untuk ngobrol, berdiskusi, mendapatkan update, dan membangun komunitas bersama.
+
+Project ini masih dalam tahap **development** dan terus aku kembangkan sedikit demi sedikit.
+
+> 💜 **Bunnies App — A community made by a Bunnies, for Bunnies.**
+
+Aku juga masih punya beberapa draft dan project lain yang mungkin bakal muncul di sini 🚀
 
 📬 Contact: **niuswicaksono@gmail.com**
 
-Semoga kalian suka sama project-project ku, jangan lupa kasih ⭐ kalau ada yang seru!
+Semoga kalian suka sama project-projectku.  
+Kalau ada yang menurut kalian menarik, jangan lupa kasih ⭐!
 
 <br>
 
 </td>
+
 </tr>
+
 <tr>
+
 <td colspan="2" align="center">
 
 <br>
@@ -53,7 +74,9 @@ Semoga kalian suka sama project-project ku, jangan lupa kasih ⭐ kalau ada yang
 <br><br>
 
 </td>
+
 </tr>
+
 </table>
 
 <div align="center">
