@@ -119,6 +119,8 @@ Tapi ya begitulah kehidupan developer.
 
 ### Two projects. One obsession. 🐰
 
+**Both projects are now live and available online! 🌐**
+
 </div>
 
 <br>
@@ -135,7 +137,7 @@ Tapi ya begitulah kehidupan developer.
 
 ### 🌐 A Community Platform Made for Bunnies
 
-**Bunnies App** adalah platform komunitas **gratis** yang aku buat khusus untuk para **Bunnies**.
+**Bunnies App** adalah platform komunitas gratis yang aku buat khusus untuk para **Bunnies**.
 
 Tempat untuk:
 
@@ -157,16 +159,16 @@ Tempat untuk:
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-FFFFFF?style=for-the-badge&labelColor=1F2937&color=93C5FD"/>
+<img src="https://img.shields.io/badge/STATUS-LIVE%20%F0%9F%8C%90-FFFFFF?style=for-the-badge&labelColor=1F2937&color=93C5FD"/>
 <img src="https://img.shields.io/badge/TYPE-COMMUNITY%20PLATFORM-FFFFFF?style=for-the-badge&labelColor=1F2937&color=BFDBFE"/>
 <img src="https://img.shields.io/badge/MADE%20FOR-BUNNIES-FFFFFF?style=for-the-badge&labelColor=1F2937&color=FBCFE8"/>
 
 <br><br>
 
-<!-- Ganti URL berikut dengan URL Bunnies App jika sudah live -->
+<a href="https://bunnies-app.infinityfree.io/?i=1">
 
-<a href="#">
-<img src="https://img.shields.io/badge/🐰%20VIEW%20PROJECT-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐰%20LIVE%20DEMO-VISIT%20BUNNIES%20APP-1F2937?style=for-the-badge"/>
+
 </a>
 
 </div>
@@ -289,7 +291,7 @@ Website ini dibuat sebagai tempat para Bunnies untuk menjelajahi album & merchan
 
 <a href="https://newjeans-store.infinityfree.io">
 
-<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-NEWJEANS--STORE.INFINITYFREE.IO-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🛍️%20LIVE%20DEMO-VISIT%20NEWJEANS%20STORE-1F2937?style=for-the-badge"/>
 
 </a>
 
@@ -424,89 +426,33 @@ by category.
 
 <div align="center">
 
-# 🛠️ Tech Stack
+# 🌐 Both Projects Are Live!
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,sqlite,tailwind,alpinejs,js,vite,git,github,vscode,python&perline=6" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Laravel-1F2937?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-1F2937?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-1F2937?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-1F2937?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-1F2937?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-1F2937?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=white"/>
-
-</div>
+|         Project        |        Type        |    Status   |
+| :--------------------: | :----------------: | :---------: |
+|   🐰 **Bunnies App**   | Community Platform | 🟢 **LIVE** |
+| 🛍️ **NewJeans Store** |     E-Commerce     | 🟢 **LIVE** |
 
 <br>
 
----
+<a href="https://bunnies-app.infinityfree.io/?i=1">
 
-<div align="center">
-
-# 📌 Project Overview
-
-|         Project        |        Type        |       Status      |
-| :--------------------: | :----------------: | :---------------: |
-|   🐰 **Bunnies App**   | Community Platform | 🚧 In Development |
-| 🛍️ **NewJeans Store** |     E-Commerce     |      🌐 Live      |
-
-<br>
-
-### 💙 Two projects built with code & love for Bunnies. 💗
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## 🌐 Explore My Projects
-
-<br>
-
-<a href="https://newjeans-store.infinityfree.io">
-
-<img src="https://img.shields.io/badge/🐰%20NEWJEANS%20STORE-LIVE%20WEBSITE-93C5FD?style=for-the-badge&labelColor=1F2937"/>
+<img src="https://img.shields.io/badge/🐰%20BUNNIES%20APP-LIVE%20WEBSITE-93C5FD?style=for-the-badge&labelColor=1F2937"/>
 
 </a>
 
   
 
-<a href="https://github.com/niuswicaksono-max">
+<a href="https://newjeans-store.infinityfree.io">
 
-<img src="https://img.shields.io/badge/💻%20GITHUB-VIEW%20PROJECTS-FBCFE8?style=for-the-badge&labelColor=1F2937"/>
+<img src="https://img.shields.io/badge/🛍️%20NEWJEANS%20STORE-LIVE%20WEBSITE-FBCFE8?style=for-the-badge&labelColor=1F2937"/>
 
 </a>
 
 <br><br>
 
-📬 **Contact:**
-**[niuswicaksono@gmail.com](mailto:niuswicaksono@gmail.com)**
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-<sub>
-
-Made with 🐇 by **Nius**
-
-<br>
-
-**Code • Create • Learn • Repeat**
-
-</sub>
+### 💙 Two projects built with code & love for Bunnies. 💗
 
 </div>
